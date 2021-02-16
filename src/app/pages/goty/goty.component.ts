@@ -8,7 +8,6 @@ import { Component, OnInit } from '@angular/core';
 export class GotyComponent implements OnInit {
 
   constructor() {
-    console.log('Hola!');
   }
 
   ngOnInit() {
